@@ -10,7 +10,7 @@ const Masthead = () => {
 
                             <h1 className="mb-5">Generate more leads with a professional landing page!</h1>
 
-                            <form className="form-subscribe" id="contactForm">
+                            <form class="form-subscribe" id="contactForm" data-sb-form-api-token="API_TOKEN">
 
                                 <div className="row">
                                     <div className="col">
